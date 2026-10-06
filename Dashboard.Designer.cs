@@ -500,7 +500,7 @@
             this.label9.Name = "label9";
             this.label9.Size = new System.Drawing.Size(370, 25);
             this.label9.TabIndex = 3;
-            this.label9.Text = "Toplam Tescil Dava Bedeli";
+            this.label9.Text = "Toplam Acele Kamulaştırma Dava Bedeli";
             this.label9.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
             // 
             // labelToplamDava27Bedeli
@@ -532,7 +532,7 @@
             this.label11.Name = "label11";
             this.label11.Size = new System.Drawing.Size(370, 24);
             this.label11.TabIndex = 1;
-            this.label11.Text = "Toplam Acele Kamulaştırma Dava Bedeli";
+            this.label11.Text = "Toplam Tescil Dava Bedeli";
             this.label11.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
             // 
             // labelToplamDava10Bedeli
